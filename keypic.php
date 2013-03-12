@@ -448,9 +448,9 @@ function keypic_get_select_weightheight($select_name='', $select_value = '')
 	'120x240' => 'Vertical Banner (120 x 240)',
 	'125x125' => 'Square Button (125 x 125)',
 	'728x90' => 'Leaderboard (728 x 90)',
-	'120x600' => 'Skyscraper (120 x 600)',
-	'160x600' => 'Wide Skyscraper (160 x 600)',
-	'300x600' => 'Half Page Ad (300 x 600)'
+//	'120x600' => 'Skyscraper (120 x 600)',
+//	'160x600' => 'Wide Skyscraper (160 x 600)',
+//	'300x600' => 'Half Page Ad (300 x 600)'
 	);
 
 	$return = '<select name="'.$select_name.'" onChange="submit();">';
