@@ -509,7 +509,7 @@ class Keypic
 	private static $version = '1.5';
 	private static $UserAgent = 'User-Agent: Keypic PHP5 Class, Version: 1.5';
 	private static $SpamPercentage = 70;
-	private static $host = 'wsdev.keypic.com'; // ws.keypic.com
+	private static $host = 'ws.keypic.com'; // ws.keypic.com
 	private static $url = '/';
 	private static $port = 80;
 
